@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @osho81
-- 👀 I’m interested in IT-security, programming and TV-shows.  
+- 👀 I’m interested in IT-security, programming, IT-related law, martial arts and TV-shows. 
 - 🌱 I have recently accomplished a Master in IT security (Stockholm University) as well as taken a fullstack Web-development programe (Udemy). 
-- 💞️ I’m looking to collaborate on... (to be upated soon)
-- 📫 How to reach me: Linkedin [link this soon].
+- 💞️ I’m looking to collaborate on projects that has private interests.
+- 📫 How to contact me: You could hack my acccount, but then I won't be able to respond. 
