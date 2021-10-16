@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @osho81
 - 👀 I’m interested in IT-security, programming, IT-related law, martial arts and TV-shows. 
-- 🌱 Legal and IT-security master studies at University & recent fullstack Web-development programe at App Brewery/Udemy). 
+- 📁 Legal & IT-security Masters at Swedish University.
+- 💾 System Development programme, 2 years, public Swedish Technical Institution. 
+- 💻 Fullstack Web-development programe at App Brewery/Udemy. 
 - 💞️ I’m primarily here to control and deploy projects and to collaborate on any interesting projects. 
 - 📫 Feel free to contact me, suggest projects or improvements to my projects.  
