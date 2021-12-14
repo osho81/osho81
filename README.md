@@ -15,15 +15,16 @@
   
 <h3>Coding</h3>
   
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=plastic&logo=JavaScript&logoColor=black)
-[![Java](https://img.shields.io/badge/-Java-007396?style=plastic&logo=Java&logoColor=white)](https://jessicafarias.github.io/)
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=HTML5&logoColor=white)](https://jessicafarias.github.io/)
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=CSS3&logoColor=white)](https://jessicafarias.github.io/)
-[![React](https://img.shields.io/badge/-REACT-61DAFB?style=plastic&logo=React&logoColor=white)](https://reactjs.org/)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=plastic&logo=JavaScript&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=plastic&logo=Java&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=HTML5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=CSS3&logoColor=white)
+![React](https://img.shields.io/badge/-REACT-61DAFB?style=plastic&logo=React&logoColor=white)
 
 <h3>Databases</h3>
-
-[![MySQL](https://img.shields.io/badge/-MySQL-003B57?style=flat&logo=MySQL&logoColor=white)](https://jessicafarias.github.io/)
+![MySQL](https://img.shields.io/badge/-MySQL-003B57?style=flat&logo=MySQL&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white) 
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&logoColor=white) 
 </div>
 
 ## My Github Content Stats
