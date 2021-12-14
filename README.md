@@ -8,7 +8,7 @@
 
 - 📫 Feel free to contact me:   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/osama-h-a692241bb/)    [![Email](https://img.shields.io/badge/-Email-005FF9?style=for-the-badge&logo=Email&logoColor=white)](mailto:ossi.hour@gmail.com) 
 
-<br>
+<br><br>
 ### Skills & Experience
   
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=plastic&logo=JavaScript&logoColor=white)
