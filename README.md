@@ -26,5 +26,5 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=osho81&show_icons=true&hide_border=true&theme=blue-green" />
 
 
-### My Github Content Stats
+### -----------------------
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=osho81)
