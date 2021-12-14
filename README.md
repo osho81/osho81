@@ -32,6 +32,8 @@
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=osho81)
 
 
-### Languages 
-![Swedish](https://img.shields.io/badge/-Swedish-FFDC0F?style=flat&logo=Swedish&logoColor=white) 
+#### Fluency in 
+![Arabic](https://img.shields.io/badge/-Arabic-2F8D46?style=for-the-badge&logo=Arabic&logoColor=white) 
+![English](https://img.shields.io/badge/-English-00205B?style=for-the-badge&logo=English&logoColor=white) 
+![Swedish](https://img.shields.io/badge/-Swedish-FFDC0F?style=for-the-badge&logo=Swedish&logoColor=white) 
 
