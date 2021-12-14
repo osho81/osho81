@@ -30,3 +30,8 @@
 
 ### --------------------------------------
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=osho81)
+
+
+### Languages 
+![Swedish](https://img.shields.io/badge/-Swedish-FFDC0F?style=flat&logo=Swedish&logoColor=white) 
+
