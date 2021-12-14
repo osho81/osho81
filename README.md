@@ -8,4 +8,4 @@
 - 📫 Feel free to contact me, suggest projects or improvements to my projects.  
 
 ## Tech & Tools
-<img align="right" src="https://github-readme-stats.vercel.app/api/?username=osho81&show_icons=true&hide_border=true" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/?username=osho81&show_icons=true&hide_border=false" />
