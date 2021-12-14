@@ -7,8 +7,12 @@
 - 💞️ I’m primarily here to control and deploy projects and to collaborate on any interesting projects. 
 - 📫 Feel free to contact me, suggest projects or improvements to my projects.  
 
-## Tech & Tools
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osho81)](https://github.com/anuraghazra/github-readme-stats)
 
-## Stats
+
+## Tech, Skills & Stats
+
+
 <img align="left" src="https://github-readme-stats.vercel.app/api/?username=osho81&show_icons=true&hide_border=true&theme=blue-green" />
+
+## My Github Sontent Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=osho81)](https://github.com/osho81/github-readme-stats)
