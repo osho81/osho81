@@ -15,7 +15,7 @@
   
 <h3>Coding</h3>
   
-[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=plastic&logo=JavaScript&logoColor=black)](https://jessicafarias.github.io/)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)](https://jessicafarias.github.io/)
 [![Java](https://img.shields.io/badge/-Java-007396?style=plastic&logo=Java&logoColor=white)](https://jessicafarias.github.io/)
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=HTML5&logoColor=white)](https://jessicafarias.github.io/)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=CSS3&logoColor=white)](https://jessicafarias.github.io/)
