@@ -8,7 +8,7 @@
 - 📫 Feel free to contact me, suggest projects or improvements to my projects.  
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/?username=osho81&show_icons=true&hide_border=true&theme=blue-green" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=osho81&show_icons=true&hide_border=true&theme=blue-green" />
 
 ## Skills & Learning Objectives
   
