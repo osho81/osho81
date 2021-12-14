@@ -33,8 +33,6 @@
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=osho81)
 
 <br><br>
-<br><br>
-<br><br>
 #### Fluency in 
 ![Arabic](https://img.shields.io/badge/-Arabic-2F8D46?style=for-the-badge&logo=Arabic&logoColor=white) 
 ![English](https://img.shields.io/badge/-English-00205B?style=for-the-badge&logo=English&logoColor=white) 
