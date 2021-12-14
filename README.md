@@ -7,7 +7,6 @@
 - 💞️ I’m primarily here to control and deploy projects and to collaborate on any interesting projects. 
 
 - 📫 Feel free to contact me:   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/osama-h-a692241bb/)    [![Email](https://img.shields.io/badge/-Email-005FF9?style=for-the-badge&logo=Email&logoColor=white)](mailto:ossi.hour@gmail.com) 
-
 <br><br>
 ### Skills & Experience
   
@@ -23,15 +22,12 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=plastic&logo=Git&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/-MySQL-003B57?style=plastic&logo=MySQL&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=plastic&logo=MongoDB&logoColor=white) 
-
 <br><br>
 ## Overall GitHub View
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=osho81&show_icons=true&hide_border=true&theme=blue-green" />
-
 <br><br>
 ### --------------------------------------
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=osho81)
-
 <br><br>
 #### Fluency in 
 ![Arabic](https://img.shields.io/badge/-Arabic-2F8D46?style=for-the-badge&logo=Arabic&logoColor=white) 
