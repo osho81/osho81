@@ -5,7 +5,7 @@
 - 💾 System Development programme, 2 years, public Swedish Technical Institution (YrkesAkademin). 
 - 💻 Fullstack Web-development programe at App Brewery/Udemy. 
 - 💞️ I’m primarily here to control and deploy projects and to collaborate on any interesting projects. 
-- 📫 Feel free to contact me:   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/osama-h-a692241bb/){target="_blank"}    [![Email](https://img.shields.io/badge/-Email-005FF9?style=for-the-badge&logo=Email&logoColor=white)](mailto:ossi.hour@gmail.com) 
+- 📫 Feel free to contact me:   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/osama-h-a692241bb/)    [![Email](https://img.shields.io/badge/-Email-005FF9?style=for-the-badge&logo=Email&logoColor=white)](mailto:ossi.hour@gmail.com) 
 
 <br><br>
 ### Skills & Experience
