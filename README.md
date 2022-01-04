@@ -6,7 +6,7 @@
 - 💻 Fullstack Web-development bootcamp at [App Brewery via Udemy](https://www.udemy.com/course/the-complete-web-development-bootcamp/).
 - 💞️ I’m primarily here to control and deploy projects and to collaborate on any interesting projects. 
 - 📫 Feel free to contact me:   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/osama-h-a692241bb/)    [![Email](https://img.shields.io/badge/-Email-005FF9?style=for-the-badge&logo=Email&logoColor=white)](mailto:ossi.hour@gmail.com) 
-<br>
+<br><br>
 ### Skills & Experience
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=plastic&logo=JavaScript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=HTML5&logoColor=white)
@@ -26,7 +26,7 @@
 <br><br>
 
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=osho81)
-<br>
+<br><br>
 ### Fluency in 
 ![Arabic](https://img.shields.io/badge/-Arabic-2F8D46?style=for-the-badge&logo=Arabic&logoColor=white) 
 ![English](https://img.shields.io/badge/-English-00205B?style=for-the-badge&logo=English&logoColor=white) 
