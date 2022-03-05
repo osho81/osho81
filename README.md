@@ -16,6 +16,8 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=plastic&logo=Node.js&logoColor=white) 
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=plastic&logo=Java&logoColor=white)
+![JavaFX](https://img.shields.io/badge/-JavaFX-007396?style=plastic&logo=JavaFX&logoColor=white)
+
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=plastic&logo=Python&logoColor=white)
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=plastic&logo=Git&logoColor=white) 
