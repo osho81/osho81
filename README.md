@@ -17,9 +17,9 @@
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=plastic&logo=Java&logoColor=white)
 ![JavaFX](https://img.shields.io/badge/-JavaFX-007396?style=plastic&logo=JavaFX&logoColor=white)
+![SceneBuilder](https://img.shields.io/badge/-SceneBuilder-007396?style=plastic&logo=SceneBuilder&logoColor=white)
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=plastic&logo=Python&logoColor=white)
-
 ![Git](https://img.shields.io/badge/-Git-F05032?style=plastic&logo=Git&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/-MySQL-003B57?style=plastic&logo=MySQL&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=plastic&logo=MongoDB&logoColor=white) 
