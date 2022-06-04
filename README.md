@@ -1,4 +1,4 @@
-## Intro 
+# Intro 
 - 👋 Hi, I’m @osho81
 - 👀 I’m interested in IT-security, programming, IT-related law, martial arts and TV-shows. 
 - 📁 Legal & IT-security Masters from Stockholm & Uppsala University in Sweden.
@@ -8,7 +8,7 @@
 - 📫 Feel free to contact me:  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/osama-h-a692241bb/)  [![Email](https://img.shields.io/badge/-Email-005FF9?style=for-the-badge&logo=Email&logoColor=white)](mailto:ossi.hour@gmail.com) 
 
 <br><br>
-### Skills & Experience
+## Skills & Experience
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=plastic&logo=JavaScript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=CSS3&logoColor=white)
@@ -24,13 +24,13 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-003B57?style=plastic&logo=MySQL&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=plastic&logo=MongoDB&logoColor=white) 
 <br><br>
-### Overall GitHub View
+## Overall GitHub View
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=osho81&show_icons=true&hide_border=true&theme=blue-green" />
 <br><br>
 
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=osho81)
 <br><br>
-### Fluency in 
+## Fluency in 
 ![Arabic](https://img.shields.io/badge/-Arabic-2F8D46?style=for-the-badge&logo=Arabic&logoColor=white) 
 ![English](https://img.shields.io/badge/-English-00205B?style=for-the-badge&logo=English&logoColor=white) 
 ![Swedish](https://img.shields.io/badge/-Swedish-FFDC0F?style=for-the-badge&logo=Swedish&logoColor=white) 
