@@ -14,10 +14,11 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=CSS3&logoColor=white)
 ![React](https://img.shields.io/badge/-REACT-61DAFB?style=plastic&logo=React&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=plastic&logo=Node.js&logoColor=white) 
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-
 ![JavaFX](https://img.shields.io/badge/-JavaFX-007396?style=plastic&logo=JavaFX&logoColor=white)
 ![SceneBuilder](https://img.shields.io/badge/-SceneBuilder-007396?style=plastic&logo=SceneBuilder&logoColor=white)
 
