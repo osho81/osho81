@@ -16,6 +16,8 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=plastic&logo=Node.js&logoColor=white) 
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=plastic&logo=Java&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+
 ![JavaFX](https://img.shields.io/badge/-JavaFX-007396?style=plastic&logo=JavaFX&logoColor=white)
 ![SceneBuilder](https://img.shields.io/badge/-SceneBuilder-007396?style=plastic&logo=SceneBuilder&logoColor=white)
 
