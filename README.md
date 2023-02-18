@@ -25,6 +25,9 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=plastic&logo=Git&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/-MySQL-003B57?style=plastic&logo=MySQL&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=plastic&logo=MongoDB&logoColor=white) 
+
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 <br><br>
 ## Overall GitHub View
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=osho81&show_icons=true&hide_border=true&theme=blue-green" />
