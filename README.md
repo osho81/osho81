@@ -15,7 +15,7 @@
 ![React](https://img.shields.io/badge/-REACT-61DAFB?style=plastic&logo=React&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=plastic&logo=Node.js&logoColor=white) 
 
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
 ![JavaFX](https://img.shields.io/badge/-JavaFX-007396?style=plastic&logo=JavaFX&logoColor=white)
